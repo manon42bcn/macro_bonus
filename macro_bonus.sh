@@ -4,6 +4,13 @@
 # at line 12 (just after header).
 # for some IDE, definitions ar key to give you context
 # help, even visual helpers that make our life easier.
+#
+# usage, to add BONUS macro:
+# ./macro_bonus.sh bonus
+# to delete BONUS macro (mandatory version): 
+# ./macro_bonus.sh mandatory
+# NOTE: check file permissions before execute it.
+#
 # whoAmI(campus=42barcelona, login=mporras-, mail=manuel.porras.ojeda@gmail.com)
 # Feel free to write! 
 

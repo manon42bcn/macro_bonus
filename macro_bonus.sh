@@ -4,6 +4,8 @@
 # at line 12 (just after header).
 # for some IDE, definitions ar key to give you context
 # help, even visual helpers that make our life easier.
+# whoAmI(campus=42barcelona, login=mporras-, mail=manuel.porras.ojeda@gmail.com)
+# Feel free to write! 
 
 macro="# define BONUS 1"
 
